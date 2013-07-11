@@ -3,6 +3,6 @@
 
 <?PHP
 
-print_r($teste); 
+print_r($usuarios); 
 
 ?>

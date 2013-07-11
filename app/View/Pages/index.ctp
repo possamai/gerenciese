@@ -22,3 +22,7 @@ endif;
 App::uses('Debugger', 'Utility');
 ?>
 <h1>Gerencie.se</h1>
+
+			<?php
+            echo $this->Html->link('Usuários', array('controller'=>'usuarios', 'action'=>'index'));
+			?>
